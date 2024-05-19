@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+    font-family: 'Inter var';
+    src: url("/public/InterVariable.woff2") format("woff2");
+}
+
+@tailwind utilities;
